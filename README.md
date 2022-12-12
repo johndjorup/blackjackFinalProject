@@ -1,2 +1,2 @@
-# blackjackFinalProject
-Using AWS Amplify to create a Blackjack game
+# finalProjectJohnFinbar
+Created a two player dice game in react with Django framework
